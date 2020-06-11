@@ -1,3 +1,76 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+# default config
+baseURL = "https://liezele.be"
+languageCode = "nl-BE"
+title = "Liezele | liezele.be"
+theme = "parsa"
+summaryLength = "10"
+paginate = 6
+
+# output
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+# CSS Plugins
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/slick/slick.css"
+[[params.plugins.css]]
+link = "plugins/themify-icons/themify-icons.css"
+
+# JS Plugins
+[[params.plugins.js]]
+link = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+link = "plugins/headroom/headroom.js"
+[[params.plugins.js]]
+link = "plugins/instafeed/instafeed.min.js"
+[[params.plugins.js]]
+link = "plugins/masonry/masonry.js"
+[[params.plugins.js]]
+link = "plugins/reading-time/readingTime.min.js"
+[[params.plugins.js]]
+link = "plugins/smooth-scroll/smooth-scroll.js"
+[[params.plugins.js]]
+link = "plugins/search/fuse.min.js"
+[[params.plugins.js]]
+link = "plugins/search/mark.js"
+[[params.plugins.js]]
+link = "plugins/search/search.js"
+
+# navigation
+[[menu.main]]
+name = "Over Liezele"
+URL = "about"
+weight = 2
+
+# deult parameter
+[params]
+logo = "images/logo.png"
+home = "Home"
+# theme layout ( two layout is available, "1" and "2" )
+layout = "1"
+# Meta data
+description = "This is meta description"
+# Preloader
+preloader = true
+# search
+search = false
+# about author
+author = "Rob Van Keilegom"
+author_image = "images/banner-img.png"
+bio = ""
+# Google Analitycs
+google_analitycs_id = "Your ID"
+# copyright
+copyright = "Copyright &copy; 2020 [robvankeilegom.be](https://robvankeilegom.be)"
+
+# Instagram feed
+# [params.instafeed]
+# enable = true
+# user_id = "4044026246"
+# access_token = "4044026246.1677ed0.8896752506ed4402a0519d23b8f50a17"
