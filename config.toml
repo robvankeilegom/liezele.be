@@ -87,22 +87,22 @@ hasChildren = true
 [[menu.main]]
 name = "Landelijke Gilde"
 parent = "Verenigingen"
-URL = "landelijke-gilde"
+URL = "verenigingen/landelijke-gilde"
 
 [[menu.main]]
 name = "KVLV"
 parent = "Verenigingen"
-URL = "kvlv"
+URL = "verenigingen/kvlv"
 
 [[menu.main]]
 name = "Chiro"
 parent = "Verenigingen"
-URL = "chiro"
+URL = "verenigingen/chiro"
 
 [[menu.main]]
 name = "De Bacchanten"
 parent = "Verenigingen"
-URL = "de-bacchanten"
+URL = "verenigingen/de-bacchanten"
 
 
 #################### default parameters ################################
