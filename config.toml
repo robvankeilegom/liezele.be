@@ -104,6 +104,16 @@ name = "De Bacchanten"
 parent = "Verenigingen"
 URL = "verenigingen/de-bacchanten"
 
+[[menu.main]]
+name = "Linsella"
+parent = "Verenigingen"
+URL = "verenigingen/linsella"
+
+[[menu.main]]
+name = "Okra"
+parent = "Verenigingen"
+URL = "verenigingen/okra"
+
 
 #################### default parameters ################################
 [params]
