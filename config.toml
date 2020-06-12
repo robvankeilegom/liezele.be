@@ -57,27 +57,27 @@ hasChildren = true
 [[menu.main]]
 name = "Geschiedenis"
 parent = "Over Liezele"
-url = "over-liezele"
+url = "geschiedenis/over-liezele"
 
 [[menu.main]]
 name = "De Liezelenaar"
 parent = "Over Liezele"
-URL = "de-liezelenaar"
+URL = "geschiedenis/de-liezelenaar"
 
 [[menu.main]]
 name = "Fort Van Liezele"
 parent = "Over Liezele"
-URL = "fort-van-liezele"
+URL = "geschiedenis/fort-van-liezele"
 
 [[menu.main]]
 name = "De Watermolen"
 parent = "Over Liezele"
-URL = "de-watermolen"
+URL = "geschiedenis/de-watermolen"
 
 [[menu.main]]
 name = "De Kerk"
 parent = "Over Liezele"
-URL = "de-kerk"
+URL = "geschiedenis/de-kerk"
 
 [[menu.main]]
 name = "Verenigingen"
