@@ -85,7 +85,7 @@ weight = 2
 hasChildren = true
 
 [[menu.main]]
-name = "Landerlijke Gilde"
+name = "Landelijke Gilde"
 parent = "Verenigingen"
 URL = "landelijke-gilde"
 
