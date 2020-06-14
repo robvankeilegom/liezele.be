@@ -2,7 +2,7 @@
 title: "De Bacchanten"
 date: 2020-06-11T19:04:19+02:00
 type: "featured"
-image: "images/bacchanten.png"
+bg_image: "images/bacchanten.png"
 tags:
   - "De Bacchanten"
 ---
@@ -26,3 +26,4 @@ De Bacchanten zijn steeds op zoek naar nieuwe uitdagingen. In mei 2006 zongen ze
 Graag zingen is belangrijk – notenlezen niet noodzakelijk.
 Hartelijk welkom !
 
+site: [bacchanten.com](https://www.bacchanten.com/)

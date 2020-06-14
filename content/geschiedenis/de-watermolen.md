@@ -3,6 +3,7 @@ title: "De Watermolen"
 date: 2020-06-11T18:32:39+02:00
 description: ""
 image: "images/de-watermolen.jpg"
+bg_image: "images/de-watermolen.jpg"
 ---
 ### Info
 Naam: Schemelbertmolen

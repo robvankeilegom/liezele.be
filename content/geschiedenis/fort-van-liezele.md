@@ -2,6 +2,7 @@
 title: "Fort Van Liezele"
 date: 2020-06-12T17:43:11+02:00
 image: "images/fort-van-liezele.jpg"
+bg_image: "images/fort-van-liezele.jpg"
 ---
 ## Fort Van Liezele
 
@@ -31,7 +32,4 @@ In 1939, een jaar voor het uitbreken van de Tweede Wereldoorlog wordt het fort o
 Op 10 mei 1940 vallen de Duitsers opnieuw België binnen. Tijdens de veldtocht van mei 1940 vinden geen gevechten plaats rond het fort.
 
 Tijdens de Tweede Wereldoorlog bezetten de Duitsers het fort en richten het in als een depot.
-
-Neem een kijkje op de website : www.fortliezele.be
-
 
