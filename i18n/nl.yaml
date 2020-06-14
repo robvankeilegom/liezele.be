@@ -1,0 +1,16 @@
+- id: last_update
+  translation: Laatste aangepast
+- id: all
+  translation: All
+- id: read_more
+  translation: Verder lezen
+- id: latest_posts
+  translation: Laatste posts
+- id: page_prev
+  translation: Vorige
+- id: page_next
+  translation: Volgende
+- id: tags
+  translation: Tags
+- id: categories
+  translation: Categorieën
