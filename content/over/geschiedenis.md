@@ -1,18 +1,11 @@
 ---
-title: "Over Liezele"
+title: "Geschiedenis"
 date: 2020-06-11T18:32:39+02:00
 description: ""
 bg_image: "images/liezele.png"
 tags:
 - "Over Liezele"
 ---
-Liezele, de groene long van Klein Brabant, is gelegen in de Belgische provincie Antwerpen en een deelgemeente van Puurs. Het was een zelfstandige gemeente tot einde 1976 en heeft oppervlakte van 6,53 km² en heeft ongeveer 2000 inwoners. Onze bruisende gemeenten bied een enorme diversiteit van wandelpaden en heeft als een van de enige in Vlaanderen het best bewaarde Fort uit WO I.
-
-Kortom het is mooi en leerrijk vertoeven in onze mooie gemeente.
-
-# Geschiedenis
-
-Liezele is een dorp in de Belgische provincie Antwerpen en een deelgemeente van Puurs. Het was een zelfstandige gemeente tot einde 1976. Liezele heeft een oppervlakte van 6,53 km² en heeft ongeveer 2000 inwoners.
 
 Reeds in de metaaltijden moet er bewoning geweest zijn te Liezele; deze bewoning zette zich verder in de Romeinse periode. Bij veldprospectie kwamen scherven uit zowel de ijzertijd als de Romeinse tijd aan het licht. .
 De eerste schriftelijke vermelding van Liezele stamt uit de 12e eeuw.
