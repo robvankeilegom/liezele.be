@@ -1,7 +1,7 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-description: "{{ replace .Name "-" " " | title }}"
+description: ""
 type: "post"
 image: "images/{{ .Name | lower }}.jpg"
 bg_image: "images/{{ .Name | lower }}.jpg"
