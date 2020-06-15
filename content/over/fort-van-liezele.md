@@ -33,3 +33,4 @@ Op 10 mei 1940 vallen de Duitsers opnieuw België binnen. Tijdens de veldtocht v
 
 Tijdens de Tweede Wereldoorlog bezetten de Duitsers het fort en richten het in als een depot.
 
+site: [fortliezele.be](http://www.fortliezele.be)
