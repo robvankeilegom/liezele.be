@@ -13,4 +13,7 @@ Na de wapenstilstand van 11 november 1918 werd er geen tijd verloren. Het groots
 
 De inzegening van het gebouw had plaats op 31 augustus 1925. Zij werd verricht door Mgr. De Wachter, Hulpbisschop te Mechelen. De eerste mis werd ’s anderendaags, de eerste zondag van september 1925, opgedragen door E.H.Celis.
 
+> Uit ‘Kerk in het midden…van de belangstelling’ door André Van Assche – een uitgave van Linsella, werkgroep heem- en geschiedkunde Liezele.
+>Foto's: Erik Cools
+
 

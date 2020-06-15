@@ -8,6 +8,8 @@ tags:
 ### O.L.V van gedurende bijstand
 Ook genoemd : Kapelleke van 't achtersa
 
+![O.L.V van gedurende bijstand](/images/kapelletjes/olv-van-gedurende-bijstand.jpg)
+
 Gebouwd in 1870 waarna in 1976 gedeeltelijk de binnenzijde hersteld waarna begin jaren 80 het dakgebinte werd vervangen door plaatselijke Firma
 Het gebouw is opgetrokken in rode baksteen met zwarte stenen in kruisvorm verwerkt met onderaan een grijsblauw geschilderde plint.
 Boven de deur, op een wit vlak, staat een kruis met speer, stok en spons afgebeeld.
@@ -17,8 +19,10 @@ Het Mariabeeld, met Jezus op haar Linker arm opgesteld achter een ijzeren hek dr
 Achter glas en onder een glazen stulp een Heilig Hartbeeld
 Vroeger werd er op 15 augustus een mis opgedragen, nu kan men een gans jaar door individueel het mooie kapelletje bezoeken, kaarsje laten branden en bidden.
 
-### Onze-Lieve-Vrouw ter Koorts
+### O.L.V ter Koorts
 Ook genoemd : het Wolfskapelletje en de Koortskapel.
+
+![O.L.V ter Koorts](/images/kapelletjes/olv-ter-koorts.jpg)
 
 Deze kapel, toegewijd aan Onze-Lieve-Vrouw van Koorts,  staat aan de Dendermondsesteenweg in Liezele (Puurs). Oorspronkelijk stond hier een kleine veldkapel in bak- en zandsteenstijl, opgericht door J. Uvens, eigenaar van het kasteel 't Steentje, dat gelegen was tussen het Hof ter Bollen en Schemelbert.
 Hij liet de kapel in 1643 oprichten nadat zijn dochtertje genezen was van de koorts.
@@ -28,8 +32,10 @@ De kapel werd in 1947 heropgebouwd naar een ontwerp van  A. Adriaensens .
 In 1998 werd de kapel beschermd als monument
 
 
-### O.L.Vrouw van Lourdes
+### O.L.V van Lourdes
 Ook genoemd : 't wit kapelleke
+
+![O.L.V van Lourdes](/images/kapelletjes/olv-van-lourdes.jpg)
 
 Op initiatief van pastoor A. Bellemans werd deze kapel als herinnering aan de verschijning van Maria in Lourdes in 1954 gebouwd.
 De kapel is drie Pannen breed (ongv. 60 cm), wit geschilderd met blauwe tralies en een kruis bovenop.
@@ -40,6 +46,9 @@ De bewoners van de buurt kwamen er vroeger bidden ..
 
 
 ### O.L.V Lourdesgrot
+
+![O.L.V Lourdesgrot](/images/kapelletjes/olv-lourdes-grot.jpg)
+
 In de jaren vijtig opgericht door de meerster P. De Wit.
 Het rotswerk is uitgevoerd door Tondelier uit Oude God.
 O.-L.-Vrouw van Lourdes is gans in het wit gekleed, met een blauwe gordelband. Het beeld werd herschildert in 1991.
