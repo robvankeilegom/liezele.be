@@ -3,6 +3,8 @@ title: "De Liezelenaar"
 date: 2020-06-11T18:32:39+02:00
 description: ""
 image: "images/de-liezelenaar.jpg"
+tags:
+- "Over Liezele"
 ---
 Liezelenaars zijn ‘Pieren’ In het standaardwerk ‘Eigen Aard’ van Karel Peeters komt Liezele vaak aan bod:
 De mensen vertelden dat er in gans Liezele niet één pier te vinden was. Zo erg was het gesteld met de grond. Spotvertelsels waren er vroegen genoeg:

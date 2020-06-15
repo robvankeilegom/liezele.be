@@ -3,6 +3,8 @@ title: "De Kerk"
 date: 2020-06-12T17:37:33+02:00
 description: ""
 image: "images/de-kerk.jpg"
+tags:
+- "Over Liezele"
 ---
 Tijdens WO I werd Liezele door de eigen Belgische soldaten platgebrand om vanuit het fort zicht te krijgen op Duitse aanvallen… Dit wil zeggen dat alle gebouwen en ook de kerk zijn heropgebouwd na het einde van de oorlog.
 Van 1916 tot 1930 was E.H.Louis Celis, pastoor van Liezele. Het was zijn grote zorg om de mensen van Liezele een nieuw kerkgebouw te verschaffen.

@@ -3,6 +3,8 @@ title: "Fort Van Liezele"
 date: 2020-06-12T17:43:11+02:00
 image: "images/fort-van-liezele.jpg"
 bg_image: "images/fort-van-liezele.jpg"
+tags:
+- "Over Liezele"
 ---
 ## Fort Van Liezele
 
