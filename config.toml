@@ -82,6 +82,11 @@ parent = "Over Liezele"
 URL = "over/de-kerk"
 
 [[menu.main]]
+name = "Kapelletjes"
+parent = "Over Liezele"
+URL = "over/kapelletjes"
+
+[[menu.main]]
 name = "Verenigingen"
 weight = 2
 hasChildren = true
