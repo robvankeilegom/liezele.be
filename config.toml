@@ -38,6 +38,8 @@ link = "plugins/magnific-popup/jquery.magnific-popup.min.js"
 link = "plugins/shuffle/shuffle.min.js"
 [[params.plugins.js]]
 link = "plugins/google-map/gmap.js"
+[[params.plugins.js]]
+link = "plugins/instafeed/instafeed.min.js"
 
 
 ############################### widgets #################################
@@ -162,3 +164,9 @@ home = "Home"
 # copyright
 copyright = "Iets fout of onvolledig? [info@liezele.be](mailto:info@liezele.be) - Made by [robvankeilegom.be](https://robvankeilegom.be)"
 
+
+# Instagram feed
+[params.instafeed]
+enable = false
+user_id = "4044026246"
+access_token = "4044026246.1677ed0.8896752506ed4402a0519d23b8f50a17"
