@@ -3,8 +3,8 @@ title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 description: ""
 type: "post"
-image: "images/{{ .Name | lower }}.jpg"
-bg_image: "images/{{ .Name | lower }}.jpg"
+image: "images/posts/{{ .Name | lower }}.jpg"
+bg_image: "images/posts/{{ .Name | lower }}.jpg"
 categories:
 - "{{ .Name | lower }}"
 tags:
