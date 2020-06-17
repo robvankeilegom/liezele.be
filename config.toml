@@ -18,26 +18,26 @@ disableLanguages = []
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
 link = "plugins/Ionicons/css/ionicons.min.css"
-[[params.plugins.css]]
-link = "plugins/magnific-popup/magnific-popup.css"
-[[params.plugins.css]]
-link = "plugins/slick/slick.css"
+# [[params.plugins.css]]
+# link = "plugins/magnific-popup/magnific-popup.css"
+# [[params.plugins.css]]
+# link = "plugins/slick/slick.css"
 
 # JS Plugins
 [[params.plugins.js]]
 link = "plugins/jQuery/jquery.min.js"
 [[params.plugins.js]]
 link = "plugins/bootstrap/bootstrap.min.js"
-[[params.plugins.js]]
-link = "plugins/slick/slick.min.js"
-[[params.plugins.js]]
-link = "plugins/magnific-popup/jquery.magnific-popup.min.js"
-[[params.plugins.js]]
-link = "plugins/shuffle/shuffle.min.js"
-[[params.plugins.js]]
-link = "plugins/google-map/gmap.js"
-[[params.plugins.js]]
-link = "plugins/instafeed/instafeed.min.js"
+# [[params.plugins.js]]
+# link = "plugins/slick/slick.min.js"
+# [[params.plugins.js]]
+# link = "plugins/magnific-popup/jquery.magnific-popup.min.js"
+# [[params.plugins.js]]
+# link = "plugins/shuffle/shuffle.min.js"
+# [[params.plugins.js]]
+# link = "plugins/google-map/gmap.js"
+# [[params.plugins.js]]
+# link = "plugins/instafeed/instafeed.min.js"
 
 
 ############################### widgets #################################
