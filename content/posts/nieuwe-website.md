@@ -8,7 +8,7 @@ bg_image: "images/posts/nieuwe-website.jpg"
 categories:
 - "liezele.be"
 ---
-Onlangs zag ik dat de het domein liezele.be te koop was en vond het een beetje zonde dat de inhoud van de site achter deze domein verloren zou gaan. Daarom heb ik het op mij genomen om de site terug online te brengen en deze in een nieuw jasje te steken.
+Onlangs zag ik dat de het domein liezele.be te koop was en vond het een beetje zonde dat de inhoud van de site achter het domein verloren zou gaan. Daarom heb ik het op mij genomen om de site terug online te brengen en deze in een nieuw jasje te steken.
 
 De meeste inhoud is overgenomen van de oorspronkelijke site. Alle krediet komt dan ook toe aan de originele eigenaars. De oude site is nog te bezichtigen via [web.archive.org](http://web.archive.org/web/20181223132610/http://liezele.be/).
 

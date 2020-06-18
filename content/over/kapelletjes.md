@@ -52,4 +52,4 @@ De bewoners van de buurt kwamen er vroeger bidden ..
 In de jaren vijtig opgericht door de meerster P. De Wit.
 Het rotswerk is uitgevoerd door Tondelier uit Oude God.
 O.-L.-Vrouw van Lourdes is gans in het wit gekleed, met een blauwe gordelband. Het beeld werd herschildert in 1991.
-De grot staat achter de kerk.
+De grot stond achter de kerk tot 2019.
