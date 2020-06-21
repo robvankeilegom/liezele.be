@@ -95,9 +95,9 @@ parent = "Verenigingen"
 URL = "verenigingen/landelijke-gilde"
 
 [[menu.main]]
-name = "KVLV"
+name = "Ferm"
 parent = "Verenigingen"
-URL = "verenigingen/kvlv"
+URL = "verenigingen/ferm"
 
 [[menu.main]]
 name = "Chiro"
