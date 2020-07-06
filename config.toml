@@ -124,6 +124,11 @@ name = "Onderwijs"
 weight = 3
 URL = "onderwijs"
 
+[[menu.main]]
+name = "Polyvalente Zaal"
+weight = 4
+URL = "polyvalente-zaal"
+
 
 #################### default parameters ################################
 [params]
