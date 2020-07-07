@@ -21,3 +21,4 @@ Er zijn twee verschillende zalen beschikbaar:
 
 site: [pzliezele.be](https://www.pzliezele.be)
 
+![polyvalente zaal](/images/polyvalente-zaal-2.jpg)
