@@ -139,7 +139,7 @@ author = "Rob Van Keilegom"
 # Contact Information
 email = "info@liezele.be"
 # Google Analitycs
-google_analitycs_id = "" # Your ID# search
+google_analitycs_id = "UA-89542282-5" # Your ID# search
 # multi-author support (if set to true, you must use an Array in the author field)
 multi_author = false
 
