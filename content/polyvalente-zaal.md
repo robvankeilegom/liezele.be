@@ -3,6 +3,7 @@ title: "Polyvalente Zaal"
 date: 2020-07-06T22:36:27+02:00
 description: "In de Polyvalente Zaal Liezele kan u terecht voor uw familiefeesten, babyborrels, communies, huwelijken, jubilea, verjaardagen ..."
 type: "featured"
+image: "images/polyvalente-zaal.jpg"
 bg_image: "images/polyvalente-zaal.jpg"
 ---
 In de Polyvalente Zaal Liezele kan u terecht voor uw familiefeesten, babyborrels, communies, huwelijken, jubilea, verjaardagen ... Voor meer info, en een kalender wanneer de zaal beschikbaar is kan je tercht op de site onderaan.
