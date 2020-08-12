@@ -124,17 +124,22 @@ name = "Onderwijs"
 weight = 3
 URL = "onderwijs"
 
+[[menu.main]]
+name = "Polyvalente Zaal"
+weight = 4
+URL = "polyvalente-zaal"
+
 
 #################### default parameters ################################
 [params]
 logo = "images/logo.png"
 # Meta data
 description = "Liezele, de groene long van Klein Brabant, is gelegen in de Belgische provincie Antwerpen en een deelgemeente van Puurs. Onze bruisende gemeenten bied een enorme diversiteit van wandelpaden en heeft als een van de enige in Vlaanderen het best bewaarde Fort uit WO I."
-author = "Themefisher"
+author = "Rob Van Keilegom"
 # Contact Information
 email = "info@liezele.be"
 # Google Analitycs
-google_analitycs_id = "" # Your ID# search
+google_analitycs_id = "UA-89542282-5" # Your ID# search
 # multi-author support (if set to true, you must use an Array in the author field)
 multi_author = false
 
