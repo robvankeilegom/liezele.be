@@ -1,7 +1,6 @@
 ---
 title: "Procedure Paardenkliniek Stopgezet"
 date: 2020-08-12T14:17:51+02:00
-description: "Het koppel dat een paardenkliniek wil bouwen aan de Turkenhofdreef in Liezele (Puurs-Sint-Amands) heeft de beroepsprocedure bij de provincie Antwerpen stopgezet. Actiegroep ‘geen veeartsenijkliniek in Liezelse open ruimte’ reageert opgelucht: “Wij hopen dat het project hiermee van de baan is.”"
 thumb_image: "images/posts/procedure-paardenkliniek-stopgezet.jpg"
 image: "images/posts/procedure-paardenkliniek-stopgezet.jpg"
 type: "post"
