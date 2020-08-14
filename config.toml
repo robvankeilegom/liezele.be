@@ -120,6 +120,11 @@ parent = "Verenigingen"
 URL = "verenigingen/okra"
 
 [[menu.main]]
+name = "Liebad"
+parent = "Verenigingen"
+URL = "verenigingen/liebad"
+
+[[menu.main]]
 name = "Onderwijs"
 weight = 3
 URL = "onderwijs"
