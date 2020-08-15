@@ -9,6 +9,10 @@ paginate = "4"
 summaryLength = "30"
 # disable language
 disableLanguages = []
+[markup]
+  [markup.goldmark]
+      [markup.goldmark.renderer]
+            unsafe = true
 
 
 #################################### Plugins ##############################

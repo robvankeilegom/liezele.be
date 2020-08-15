@@ -18,19 +18,15 @@ Wij vormen een hechte groep en leven mee met het wel en wee van de leden. Na het
 
 Het vierkoppig bestuur leidt de club in goede banen en zorgt voor de administratie, de organisatie, de boekhouding en het financiële luik.
 
-Voorzitter:
-```
-Joke Dewever
-Esdoorndreef 15
-2870 Puurs-Sint-Amands
-Email: [daelemans.dewever@telenet.be](daelemans.dewever@telenet.be)
-```
+Voorzitter: <br />
+Joke Dewever <br />
+Esdoorndreef 15 <br />
+2870 Puurs-Sint-Amands <br />
+Email: [daelemans.dewever@telenet.be](mailto:daelemans.dewever@telenet.be)
 
-Secretaris:
-```
-Christine Moens
-Wolfstraat 30
-2870 Puurs-Sint-Amands
-Email: xave.weymans@skynet.be
-```
+Secretaris: <br />
+Christine Moens <br />
+Wolfstraat 30 <br />
+2870 Puurs-Sint-Amands <br />
+Email: [xave.weymans@skynet.be](mailto:xave.weymans@skynet.be) <br />
 
