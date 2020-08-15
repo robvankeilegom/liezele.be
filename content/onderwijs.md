@@ -8,6 +8,7 @@ tags:
 - "onderwijs"
 ---
 
+![onderwijs logo](/images/onderwijs.png#floatleft)
 ### Kleuterschool
 - Drie aangenaam ingerichte kleuterklassen
 - Een afzonderlijke, deels overdekte speelplaats met zandbak, fietsen, loopklossen....
@@ -23,7 +24,7 @@ tags:
 - Toffe leerkrachten
 - Leerkracht voor interne zorgbegeleiding.
 
-site: [vbs-liezele.be](https://www.vbs-liezele.be/)
+> site: [vbs-liezele.be](https://www.vbs-liezele.be/)
 
 
 

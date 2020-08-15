@@ -11,7 +11,7 @@ Doelstellingen zijn het verzamelen, onderzoeken en archiveren van verspreid gesc
 Tentoonstellingen over plaatsgebonden thema's. Informatie-gesprekken en voordrachten. Advies aan en ondersteuning van plaatselijke activiteiten ingericht door derden. Verspreiden van informatie via boeken en tijdschriften en via het ledenblad.
 
 
-### Nieuw: LINSELLA ARCHIEF
+### Linsella Archief
 
 Het Linsella archief richt zich tot eenieder die interesse heeft in het heemkundig erfgoed en de geschiedenis van onze gemeente Liezele en die op zoek is naar informatie:
 - Studenten

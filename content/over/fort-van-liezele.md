@@ -17,7 +17,7 @@ Musea met authentiek materiaal, commandoposten, troepenkamers, infirmerie, gesch
 
 Het fort diende ook als filmlocatie voor " De Hel van Tanger" en de serie " De Smaak van De Keyser".
 
-### Beetje geschiedenis
+### Geschiedenis
 
 In 1906 werd er beslist tot de bouw. Het fort behoorde tot de grote verdedigingsgordel rond Antwerpen, die van de stad één van de grootste vestingen van Europa maakte.
 Nadat de werken door de firma Bolsée waren uitgevoerd, stonden er in een straal van 20 km meer dan dertig forten en veldschansen.
@@ -35,4 +35,4 @@ Op 10 mei 1940 vallen de Duitsers opnieuw België binnen. Tijdens de veldtocht v
 
 Tijdens de Tweede Wereldoorlog bezetten de Duitsers het fort en richten het in als een depot.
 
-site: [fortliezele.be](http://www.fortliezele.be)
+> site: [fortliezele.be](http://www.fortliezele.be)

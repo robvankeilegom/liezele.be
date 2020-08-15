@@ -7,6 +7,7 @@ tags:
 - "Landelijke Gilde"
 ---
 
+![landelijke-gilde logo](/images/landelijke-gilde.jpeg#floatleft)
 ### Wie zijn wij?
 
 Wij zijn de grootste vereniging van Liezele. Het leven in Liezele proberen wij aangenamer te maken door tal van activiteiten te organiseren. Wij zijn aangesloten bij de Landelijke Gilden, ons gedachtegoed kan u onderaan terugvinden.
@@ -26,4 +27,4 @@ We willen niet opkomen voor één welbepaald actiepunt.
 Maar in de thema’s die wij aansnijden, staan het gezin en de leefbaarheid van het dorp centraal.
 Die thema’s raken het beleid op vele vlakken, van het gemeentelijke tot het federale.
 
-site: [landelijkegildeliezele.be](http://www.landelijkegildeliezele.be/)
+> site: [landelijkegildeliezele.be](http://www.landelijkegildeliezele.be/)

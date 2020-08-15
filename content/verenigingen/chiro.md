@@ -6,6 +6,7 @@ bg_image: "images/chiro.png"
 tags:
   - "Chiro"
 ---
+![chiro logo](/images/chiro_logo.png#floatleft)
 Hallo beste vriendjes,
 
 Wij zijn Chiro Liezele en zijn gevestigd naast het speeltuintje te Liezele. Velen van jullie vragen zich waarschijnlijk af: wat is chiro nu eigenlijk?
@@ -23,5 +24,5 @@ Ziezo, een hele boterham, misschien is het het beste om zelf eens naar de chiro 
 
 Groetjes, De Leidingsploeg
 
-site: [chiroliezele.be](https://chiroliezele.be/)
+> site: [chiroliezele.be](https://chiroliezele.be/)
 

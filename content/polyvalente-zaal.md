@@ -19,6 +19,6 @@ Er zijn twee verschillende zalen beschikbaar:
 - Grote zaal (150 tot 200 personen)
 - Bovenzaal (40 personen)
 
-site: [pzliezele.be](https://www.pzliezele.be)
+> site: [pzliezele.be](https://www.pzliezele.be)
 
 ![polyvalente zaal](/images/polyvalente-zaal-2.jpg)

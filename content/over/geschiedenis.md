@@ -121,7 +121,7 @@ Verdwenen: 1914 eerste wereldoorlog
 
 ### Beschrijving / geschiedenis
 
-![Wolfmolen](/images/wolfmolen.jpg)
+![Wolfmolen](/images/wolfmolen.jpg#floatleft)
 
 De Wolfmolen, genoemd naar een toponiem (de straat noemt Wolfstraat) op  is een houten korenwindmolen die met een bruin symbool - dus houten windmolen - staat aangeduid op de Ferraris kaart van ca. 1775.
 Jacobus De Maerschalck, gehuwd met Isabella Vertongen, was in 1800 molenaar te Liezele op de Wolfmolen en was afkomstig van Steenhuffel.

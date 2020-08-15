@@ -13,5 +13,5 @@ _Foto: Marc Aerts_
 
 Het koppel dat een paardenkliniek wil bouwen aan de Turkenhofdreef in Liezele (Puurs-Sint-Amands) heeft de beroepsprocedure bij de provincie Antwerpen stopgezet. Actiegroep ‘geen veeartsenijkliniek in Liezelse open ruimte’ reageert opgelucht: “Wij hopen dat het project hiermee van de baan is.”
 
-Volledig artikel op: [hln.be](https://www.hln.be/in-de-buurt/puurs-sint-amands/actiegroep-haalt-slag-thuis-procedure-bouw-paardenkliniek-stopgezet-open-ruimte-is-gered~a854e54d/)
+> Volledig artikel op: [hln.be](https://www.hln.be/in-de-buurt/puurs-sint-amands/actiegroep-haalt-slag-thuis-procedure-bouw-paardenkliniek-stopgezet-open-ruimte-is-gered~a854e54d/)
 

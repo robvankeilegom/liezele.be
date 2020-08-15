@@ -22,7 +22,7 @@ Toestand: Maalvaardig
 Eigenaar: Peter Lemmens-De Keersmaecker
 
 
-### Beschrijving / geschiedenis
+### Beschrijving / Geschiedenis
 
 Op de Molenbeek, naast de Wolfstraat in Liezele (gemeente Puurs), bevindt zich de enige watermolen van Klein-Brabant.
 Deze graanwatermolen werd in 1636 gebouwd en staat in de streek bekend als 'Schemelbertmolen'.
