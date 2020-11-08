@@ -1,133 +1,81 @@
 ---
 title: "Geschiedenis"
-date: 2020-06-11T18:32:39+02:00
+date: 2020-11-08T09:29:32+01:00
 description: ""
 bg_image: "images/liezele.png"
+author: Erik Cools
 tags:
 - "Over Liezele"
 ---
 
-Reeds in de metaaltijden moet er bewoning geweest zijn te Liezele; deze bewoning zette zich verder in de Romeinse periode. Bij veldprospectie kwamen scherven uit zowel de ijzertijd als de Romeinse tijd aan het licht. .
-De eerste schriftelijke vermelding van Liezele stamt uit de 12e eeuw.
+## LIEDESELE – LIENSELE - LIEZELE
+Liezele is een Frankische zele- stichting. Het is mogelijk een nederzetting op de liede, de helling naar de Molenbeek. De Molenbeek speelt een belangrijke rol doorheen heel de geschiedenis van Liezele. In een oorkonde uit 1139 werd LIENSELE in het Latijns LIENSELLA geschreven. In het dialect zegt men Liezel in het AN als Liezëlë. (2x een doffe ë)
+Niet ver van de Molenbeek tussen de oorspronkelijke hoven Ten-Broek (nu Hof Ten Broek) en Schemelbert (nu t’ Onzent) op de hoogste plek aan de Verberde Stede werd een Romaanse kerk gebouwd. Naast de kerk werd bij het ombouwen van de brouwerij tot appartementen, het onderste gedeelte van een waterput uit de late 10de- ,vroege 11de eeuw opgegraven.
+Liezele is minstens even oude als Puurs. Er werden langs de Molenbeek leenhoven opgericht die uitgroeiden tot kastelen: Hof-ten-Broek, Hof Schemelbert, Hof-ter-Bollen en het reeds lang verdwenen Steentje. Zo bezat omstreeks 1150 het Sint-Romboutskapittel een laathof in Liezele.
+Liezele was een heerlijkheid die tijdens de Middeleeuwen tot 1795 werd beheerd door heel wat illustere kasteelheren met ronkende namen. In de Franse tijd, werden de heerlijkheden afgeschaft en de gemeenten ingevoerd.
+Oorspronkelijk was Liezele een Onze-Lieve-Vrouwparochie. Liezele werd reeds genoteerd in een lijst van de parochies in 1046. Om verwarring met de parochie van Kalfort, met dezelfde naam, te vermijden werd Liezele een Sint-Jozefparochie. Het belangrijkste gehucht is De Wolf . Het dankt zijn naam aan een bos De Wolvennest die reeds voorkwam in 1606. In die tijd leefden er blijkbaar wolven in onze streken.
 
-In 1139 stelde Nicolaus bisschop van Kamerijk de kerk van Liezele die toen een kapel was onder de bescherming van de abdij van Affligem. Lang bleef Liezele een aanzienlijk dorp met enkele kastelen, brouwerijen, molens, pachthoven, boerderijen, herbergen en huizen van ambachtslieden zoals de smid, de kleermaker, de wagenmaker en de bakker. Van oudsher hield de Liezelse bevolking zich hoofdzakelijk bezig met de landbouw, waarbij - zoals overal in de streek - het accent lag op het verbouwen van vlas. Vandaar het grote aantal wevers en dit door de eeuwen heen.
+## DE KERK
+![kerk](/images/geschiedenis/kerk.jpg#floatright)
+De huidige Sint-Jozefkerk was oorspronkelijk een Onze-Lieve-Vrouwkerk in romaanse stijl die in de loop der eeuwen vergrote maar in 1914 door het eigen Belgische leger werd vernield om een vrij zicht te hebben ten zuiden van het fort. De huidige neogotische kerk werd in 1924 heropgebouwd. Ze bevat moderne glasramen van Joz Beeck en een kunstig geïllustreerd Kyriale (liedboek) van 90 cm bij 7 5 cm. Het Gemeentehuis, de pastorie, de gemeenteschool en het schoolhuis voor de hoofdonderwijzer werden door dezelfde architecten ontworpen. In het  oud gemeentehuis is nu de koffiebar ‘Oscaaar’, en een schoenmakerij gevestigd.
 
-Door het decreet van 29 Prairial an IV (17 juni 1796) werd ook te Liezele de burgerlijkestand ingevoerd.
-De verantwoordelijken destijds hebben klappers (G.H.O) laten opmaken vanaf 1792 tot bij de start met het opmaken der akten volgens genoemd decreet.
+## KASTELEN EN HOEVEN
+Kastelen zijn dikwijls ontstaan uit veilige verblijfplaatsen op een motte, op een verhoogde plaats, omgeven door water. Ze ontstonden in de vroege middeleeuwen. Hoeve-uitbating, verbonden aan de kastelen,  hebben een groot belang gehad in de economische ontwikkeling van Liezele. Er werd voedsel geproduceerd, het zorgde voor werkgelegenheid, de gronden werden verbeterd en het waterbeheer werd onder controle gehouden.
 
-Liezele telde verschillende landerijen en kastelen die later onder verschillende omstandigheden verdwenen of een totaal andere bestemming kregen.
+**Hof-ten-Broek**:
+![hof ten broek](/images/geschiedenis/hof-ten-broek.jpg#floatright)
+De oudste vermelde eigenaar in 14de eeuw was Gilles Vandenbroke. Ooit was het een hof van plaisantie, een buitenverblijf voor gegoede burgers. Het kende heel wat eigenaars waaronder Jan Frans Basteyns, burgemeester van Liezele van 1831 tot 1862. Het huidig landhuis dateert uit de jaren 1920 en werd gebouwd na de vernieling in de eerste wereldoorlog door Jan Baptist De Boelpaep. Het is nu gekend als feestlocatie Hof-ten-Broek.
 
-Door de dreigende oorlog met Duitsland werd er in 1908
-gestart met de graafwerken en de bouw van het Fort van Liezele.
-Als de Duitsers België binnenvallen staat het fort staat onder de leiding van commandant Fievez. Om vrij zicht te krijgen vanuit het fort, werd het dorp Liezele en omliggende gebieden volledig platgebrand.
-Het fort Liezele bleef geïsoleerd achter en capituleert noodgedwongen.
-Het blijft vier jaar een onderdeel van de Duitse verdedigingslijn rond Antwerpen en wordt versterkt door de bouw van betonnen bunkers.
+**Hof-ter-Bollen**:
+![hof ter bollen](/images/geschiedenis/hof-ter-bollen.jpg#floatright)
+De oudste gekende eigenaar in 1474 was Henric Hemelryck, vandaar ook ’t Hof Hemelryck en nog andere namen: Hof-te-Voirde, Hof mette Clooten en Hof-ter-Bollen met ingewerkte bollen aan de ingangspoort. Het hof was gebouwd aan een overgang (een voorde) over de Molenbeek. Ook dit kasteel werd in 1914 vernietigd en pas heropgebouwd in 1938. Het achterliggende bos werd vanaf 1965 verkaveld.
 
-Na de oorlog werd Liezele opnieuw heropgebouwd en kon het dorp terug opgelucht adem halen en bruiste  het weer van activiteiten , Brouwerijen, tientallen cafeetjes, bakker, beenhouwer, kruideniers en vele kleine landbouwers deden het dorp weer herleven.
-
-Tijdens de WOII bezetten de Duitsers het fort opnieuw en richten het in als een depot.
-
-In de loop der jaren  gaan  vele kroegjes dicht.
-Finka, De Dinn, Julia Lel,(had ook een kruidenierswinkeltje) Slinneke, Pastooreke, 't hoekske, stalleke van Bethlehem, Bij Mier (bakker en cafe)  zijn er maar enkele van de vele.
-Zo bleven in de loop der tijd maar  2 meer over Breughel  (met feestzaal) van brouwerij van Assche en Palmyre .
-
-De jaren 70 en 80, beleeft  zijn hoogdagen in het vereniging- leven, chiro, duivenbond, fanfares en majorettes, biljartclubs, wielervereniging (2 wedstrijden tijdens de kermis), Volleybal, landelijke Gilde, kvlv,  toneel, karate, tennis ( de voorloper van  tennisclub " TC De Hasselt) ....enz.
-
-Op politiek vlak leek het eens zo rustige gemeente  te ontaarden in een storm  van politiek gekrakeel.
-Midden jaren 70 ontstaat er, tijdens en na de verkiezingen, een  rel  dat ontaarde in minder leuke momenten voor jong en oud.
-
-In 1977 werd Liezele een deelgemeente van Puurs.
-
-Voormalige burgemeesters waren:
-
-1831-1861: Joannes Franciscus Basteyns
-1861-1882: Joannes Baptist Van Milders
-1882-1892: Leopold Van Heymbeeck
-1892-1904: Joannes Baptist Peeters
-1904-1920: Eugeen Van Milders
-1921-1935: Jan Oscar Van Assche
-1935-1971: Maurice Van Assche
-1972-1976: Jan Dons
+**Schemelbert**:
+Het is een verbouwd landhuis uit 1933 op de plaats van een waterslot, ’t Hof metten Blockhuyse . In 1677 vindt men op een kaart de naam Tof ter Schlumenbaut en in 1775 is het vermeld als Schlummenbaert.  Het slot kende heel wat illustere bezitters waaronder Alexander-Jozef Rubens, kleinzoon van Peter-Pauwel Rubens. De volkse benaming luidde, vanwege de kikkerconcerten in de grachten: ‘t Vëssekasteël. Door zijn ligging aan een overgang van de Molenbeek kreeg Ferdinand Lecocq in 1635 een vergunning om er een watermolen te bouwen, de voorganger van de huidige nog werkende Molenbeekmolen. In 1947 werd het hof gekocht door vzw Vereniging der Parochiale Werken der Dekenij Puurs. Pastoor Bellmans richtte het in als parochiale residentie met een wandelheem en een speeltuin. In de jaren 1950 raakte de naam Schemelbert ingeburgerd wat ‘schraagbrug’ betekent. Rond 1970 werd het een privé-rusthuis. In 1974 werd het een gezinsvervangend tehuis en kreeg de naam ‘t’ Onzent’, dat uitgroeide tot een opvangtehuis voor mensen met een beperking.
+![schemelbert](/images/geschiedenis/schemelbert.jpg)
 
 
-## Uitreksel uit 1638
-
-![Uittreksel](/images/uittreksel.jpg)
-
-vertaling nederlands
-
-Liezele, Op de derde mijlpaal van mechelen, heerlijkheid van de prefectuur Merchtem, eerstijds van Guilielmus Florentinus graaf van de Rijn aan wiens nakomelingen (kinderen) deze heerlijkheid blijft.
-In de Curia van het feodale hertogdom Brabant over de verkochte en herverkochte heerlijkheden staat te lezen dat Liezele behoort aan de koning en de graaf van Grimbergen en in 1588 verkocht werd aan dame Margareta Micault, in1638 weer verkocht werd (in 1630 door de graaf van Grimbergen) en in 1638 opnieuw verkocht aan de heer Watere (D. = Dominus, datief Domino) voor zijn (aanbeveling) de verkoopprijs was 1400 florijnen
-in dit dorp hebben verschillende heren geheerst en hebben ze er hun ambtswoning (kasteel)
-de niet geringste plaats onder de kastelen bekleedt het kasteel dat voorhen van het geslacht Liefkenrode was en daarna door recht van verkoop in de handen kwam van de familie Blyleven en nadien opnieuw door verkoop kwam aan N.Rubens, ontvanger-generaal van de schatkist van de koning. Van het mland en provincie Mechelen
-
-Een tekening van dit kasteel toont ons Baron le Roy in de kastelen van de Edelen van Brabant.
-Insgelijks op deze plaats is het kasteel met aanhorigheden van de heer N.Du Mont gelegen aan de weg die van Mechelen naar Dendermonde Gaat.
-
-De handgeschreven aantekening Vide addanda fol:310. verwijst naar een aanvullende nota van vier regels tekst waarin het volgende staat.
-
-Pag; 104 regel 26 het volgende is weggevallen:
-De kerk is toegewijd aan de Moedermaagd Maria, het beschermheerschap heeft de aartsbisschop van Mechelen onder het recht van de abdij van Affligem. Het tiende wordt verdeeld in drie delen, waarvan één deel toekomt aan die abdij, één aan de voornoemde heer D.Du Mont
+**Steentje**: (voormalig hof in Liezele).
+![steentje](/images/geschiedenis/steentje.jpg#floatright)
+Het Steentje is een verdwenen kasteel tussen Schemelbert en Hof-ter-Bollen. Op een kaart van ca. 1677 vinden we het als Chateau de Lizele. Jacques Uvens, heer van Sint-Laureins-Berchem, liet in de nabijheid een kapelletje bouwen nadat zijn dochter met de hulp van de Heilige Maria op wonderbaarlijke manier genas , ‘het koortskapelletje’. Nu nog vindt men binnenin rond de tralies draadjes en lintjes die de koorts moeten afbinden van een zieke dierbare.
 
 
-## Fragment uit 1232
-Toen prins Hendrik van Brabant – die regeerde als Hendrik II, in april 1232 met Arnould, de heer van Grimbergen, overeenkwam om niet gecultiveerde eigendommen die ze samen bezaten te vercijnzen, was dat vooral met de bedoeling om een aanzet te geven om deze bijna verlaten velden tussen Londerzeel en de de grens met Vlaanderen te ontginnen .
-Daarna werden de cijnzen van Malderen, Lippelo en Liezele tussen de hertogen van Brabant en de nakomelingen van Arnould van Grimbergen in twee gelijke delen verdeeld.
-In 1429 werd een zekere Gilles Mast, die er van beschuldigd werd dat hij op de openbare weg geweld tegenover een vreemdelinge had willen gebruiken, in Puurs aangehouden en vervolgens door de drossaard van die gemeente aan de meier van Liezele, Jan Joes, uitgeleverd omdat hij een meyssemedeman van de hertog was.
-Een ander soort van geweld werd in 1443-1444 gepleegd door Pieter Den Pau die beweerde dat gronden in Liezele van hem waren en er met de hulp van verwanten en vrienden de oogst afhaalde;
-ze werden gearresteerd en opgesloten en kregen een boete van 10 ponden groot.
-Het dorp Liezele erkende samen met Lippelo en Malderen de onverdeelde autoriteit van de hertogen van Brabant en de heren van Grimbergen van het huis van Bergues.
-De heer van Grimbergen had er een meier die men de meier van Liezele noemde.
-In 1662 deed Eugene van Grimbergen door patentbrieven afstand van al zijn bezittingen in Malderen, Lippelo en Liezele ten voordele van Jacques-Ferdinand de la Pierre, baron van Fay, kolonel van een regiment Waalse infanterie, en van Marie-Thérèse de Kesseler,
-Op 6 november 1664 kochten beide echtgenoten vervolgens definitief het hooggerecht in deze drie dorpen voor de prijs van 18.500 gulden, bovenop het bedrag van 10.000 gulden dat al door hun voorgangers was betaald.
-Op de griffie van de rechtbank van eerste aanleg te Mechelen bevinden zich de registers van de schepenbank van Malderen, Lippelo en Liezele van 1623 tot 1796 en de belastingsrollen vanaf 1623.
-Door de octrooien van 18 maart 1626 en 20 februari 1627 keurde de Raad van Brabant de verdeling der belastingen goed die door de schepenen van Liezele en Lippelo waren opgelegd aan de eigenaars van goederen in hun gemeentes, ongeacht of ze al dan niet in de gemeentes woonden.
-Bij deze eigenaars behoorde in Liezele François Dumont.
-De inrichting van departementen en kantons in het 3de jaar van de Franse Republiek leidde tot de verbrokkeling van de oude schepenbank.
-Liezele ging over naar het departement der 2 Netes (dat nu de provincie Antwerpen geworden is).
+## MOLENS IN LIEZELE
+![molen](/images/geschiedenis/molen.jpg#floatleft)
+In een vermelding van 1635 spreekt men van een windmolen aan de Wolf die verdween in het oorlogsjaar 1914. In hetzelfde jaar kreeg de eigenaar van Schemelbert de toelating om een watermolen te bouwen op de Molenbeek. De molen werd driemaal vernield door brand en een laatste keer herbouwd in 1922, ditmaal met een turbinerad. De molen is beschermd en kan nog altijd malen. In 2016 werd de sluis met vistrap gerestaureerd.
 
-Uit Geschiedenis van Malderen door Alphonse G.G. Wauters (1852)
+## BROUWERIJEN
+![brouwerij](/images/geschiedenis/brouwerij.jpg#floatright)
+In Liezele waren ‘De Zevenster’ van Van Milders en ‘De Hert’ van Van Assche actieve brouwerijen. Beide stonden ze onder leiding van burgemeesters met twee politieke strekkingen en een eigen fanfare. De Zevenster zou na de vernieling van het dorp in 1914 niet meer herrijzen. Met de genoten oorlogsschade werd door de familie Van Milders een nieuwe brouwerij gebouwd in Geel. Brouwerij Van Assche kende zijn oorsprong in hoeve Den Hert. Ze brouwden na WO II nog het Ale-succesbier ‘Boum’ en daarna de abdijbieren ‘Vieille-Villers’. Na Van Assche werden er nog een aantal etiketbieren gebrouwen met wisselend succes. In 2003 werd de brouwerij gedeeltelijk afgebroken en kwamen er appartementen in de plaats.
 
-## Liezele tijdens de WO-I en WO-II
+## FANFARES  SINT-CECILIA EN PRENAALZONEN
+Twee brouwerijen dus ook twee fanfares met elk hun aanhang. De eerste maatschappij was deze van de groep van de brouwers Van Milders van ‘De Zevenster’ onder de naam ‘Sint-Cecilia.’ Ze werd opgericht in 1872 door Jan Baptist Van Milders, burgemeester van 1862 tot 1882 en Eugeen van 1904 tot 1920. De maatschappij was van dorpsliberale strekking en gekend onder de bijnaam was ‘De Sloekkers’ (= slokken, vraatzuchtig eten). Doordat de familie Van Milders na de oorlog Liezele verliet, verloor de maatschappij haar voortrekker. In 1890 werd een katholieke muziekmaatschappij opgericht met de eigenaardige naam Prenaalzonen. Haar bijnaam was ‘De Kadodders’, een spotnaam  voor ‘de katholieken’. Het was de maatschappij van de concurrenten en van burgemeester Jan Oscar van Assche (van 1921 tot 1935) en later burgemeester Maurice Van Assche (van 1935 tot 1971)
 
-Na de onafhankelijkheid van België in 1830, krijgt het land een neutraal statuut opgelegd. Door het Congres van Wenen (na de nederlaag van Napoleon te Waterloo in 1815) en door de conferentie van Londen, wordt dit bepaald door de toenmalige grootheden: Frankrijk, het Verenigd Koninkrijk, Pruisen, Oostenrijk-Hongarije en Rusland.
+## POLITIEK IN LIEZELE
+Onderhuidse spanningen in de dorpspolitiek groeide naar een nieuw hoogtepunt in 1970. Burgemeester Van Assche kreeg kandidaat-notaris Jan Dons als tegenhanger. Aanvankelijk won in 1970 de lijst van Van Assche met het nummer 2, met een heel kleine meerderheid 5 tegen 4 zetels. De lijst ‘Nieuw Liezele’, met nummer 1 van Dons ging in beroep wegens beïnvloeding en onregelmatigheden. De Bestendige Deputatie verwierp de klacht maar de Raad van State aanvaardde ze. Bij de herverkiezing in februari 1971 won ‘Nieuw Liezele’ met dezelfde maar omgekeerde verhouding. Deze politieke tweedracht leidde tot heel wat spanningen en ruzies in het meestal rustige Liezele. De fanfare Prenaalzonen splitste in twee maar behielden beide dezelfde naam. Men sprak van ‘Den Een’ of ‘Den Twee’. Ook de school leed onder deze politieke verdeeldheid en zorgde voor familiale- en burenruzies. Het ging zelfs zo ver dat een landbouwer het voetbalveld van de rivaal gedeeltelijk omploegde. Na de fusie van Liezele met Puurs doofde stilaan de innerlijke strijd en keerde de rust terug.
 
-België moet een grote vesting bouwen waar de regering zich kan terugtrekken en wachten op de hulp van de grote mogendheden,indien een vijandelijke staat zou binnenvallen.
-Antwerpen wordt om politieke ,economische en militaire redenen uitgekozen als "nationaal reduit" (grote vesting waar lang genoeg kan worden standgehouden).
-Rond 1850 begint de bouw van de Grote Omwalling en een eerste wordt aangelegd.
+## FORT VAN  LIEZELE
+> www.fortengordels.be voor meer details.
 
-Vanaf 1906 begint de bouw van een tweede fortengordel, waaronder in 1908 die van Liezele.
-In principe is er een fort om de vijf kilometer met ertussen een schans.
+De forten en schansen in Klein-Brabant maakten deel uit van de derde verdedigingsgordel rond Antwerpen. Voor de bouw en de aanvoer van materialen werd een spoorlijntje aangelegd van het station van Puurs naar de Molenstraat. Vanaf 1 maart 1913 werden de eerste soldaten ingekwartierd. Tijdens de twee wereldoorlogen waren de forten van weinig belang. Bij het begin van de eerste oorlog werd Liezele door het Belgische leger in brand gestoken en werden de woningen vernield om vanuit het fort over een vrij overzichtsveld te beschikken.
 
-In mei 1908 wordt gestart met de graafwerken en de bouw van het Fort van Liezele. Onder druk van de nakende oorlog (met Duitsland) wordt in versneld tempo gewerkt. Tegen het begin van de Eerste Wereldoorlog is Liezele tamelijk goed afgewerkt in vergelijking met andere forten.
-Op 4 augustus 1914 vallen de Duitsers België binnen. In allerijl worden rond het fort verdedigingswerken uitgevoerd. Het fort staat onder de leiding van commandant Fievez. Om vrij zicht te krijgen vanuit het fort, worden het dorp Liezele en omliggende gebieden volledig platgebrand.
-Begin september, na de verovering van de forten van Luik, vallen de Duitsers de fortengordel rond Antwerpen aan. Liezele ligt buiten de eigenlijke vuurlinie, maar wordt wel een aantal keren beschoten met veldartillerie.
-Aanvang oktober 1914 ziet de toenmalige koning Albert I zich verplicht zijn veldleger uit Antwerpen terug te trekken tot achter de IJzer. Het fort Liezele blijft geïsoleerd achter en capituleert noodgedwongen op 10 oktober 1914.
+## LIEZELE VAN DE KAART
+![liezele van de kaart](/images/geschiedenis/liezele-van-de-kaart.jpg#floatright)
+Op 4 augustus 1914 vielen de Duitsers België binnen. De kerklokken werden geluid om het begin van de oorlog aan te kondigen. De forten en schansen waren bij het begin van de oorlog nog niet helemaal afgewerkt en voldeden niet aan de noden van die tijd en aan het geschut dat door de vijand werd gebruikt. Als gevolg van de onverwachte doorbraak van de Duitsers tot Liezele, besliste commandant Fiévez, na goedkeuring van hogerhand, het dorp te vernielen door, in de nacht van 4 op 5 september alle gebouwen, woningen, kerk, gemeentehuis, school en brouwerijen in brand te steken en de muren neer te halen. Meer dan 200 woningen en gebouwen werden vernield. De kastelen, Hof-ten-Broek, Schemelbert en Hof-ter-Bollen deelden in de klappen en de windmolen van de Wolf werd in brand gestoken om te verhinderen dat die door de Duitsers als uitkijkpost zou worden gebruikt. Enkel de schouw van brouwerij ‘De Zevenster’ van Van Milders bleef behouden als richtpunt van op het fort. (Liezele van de kaart) Liezelenaars bleken veerkrachtig en nog tijdens de oorlog werd een noodkerk en noodschool gebouwd aan de huidige Hof ter Bollendreef. Heel wat straatnamen in Liezele verwijzen naar gesneuvelde soldaten uit de eerste wereldoorlog. (Liezele op de kaart) Uitgerekend in de week van de herdenking 100 jaar wapenstilstand werd bij Koninklijk Besluit Liezele het erediploma toegekend van slachtoffer van oorlogsfeiten.
 
-Het fort wordt dan vier jaar een onderdeel van de Duitse verdedigingslijn rond Antwerpen en wordt versterkt door de bouw van betonnen bunkers. Tijdens het interbellum wordt het fort gebruikt als kazerne voor de zware veldartillerie.
-In 1939, een jaar voor het uitbreken van de Tweede Wereldoorlog wordt het fort omgebouwd; er worden mitrailleurs geplaatst, de koepels worden weggenomen en een aantal lokalen gasvrij gemaakt.
-Op 10 mei 1940 vallen de Duitsers opnieuw België binnen. Tijdens de veldtocht van mei 1940 vinden geen gevechten plaats rond het fort.
-Tijdens de Tweede Wereldoorlog bezetten de Duitsers het fort en richten het in als een depot.
-Na de Tweede Wereldoorlog heeft het geen militaire functie meer. Maar wordt het ingericht als waardevol museum door de VZW Liezele, te midden in een groene en rustige omgeving. Het fort diende ook als filmlocatie voor De Hel van Tanger en de serie De Smaak van De Keyser.
+## DE GRUWEL VAN WO II
+De Tweede Oorlog kwam niet onverwacht. Reeds in 1939 werden militaire eenheden gemobiliseerd. En op 10 mei vielen de Duitsers België binnen. Op 18 mei waren de Duitsers in Liezele en vielen er enkele slachtoffers. Mensen werden opgepakt en via het fort van Breendonk naar Duitse concentratiekampen gevoerd. Heel veel van hen keerden nooit terug. Op 3 september werd Brussel bevrijd en op 4 september moesten de kinderen niet naar school om de bevrijding te vieren. De vreugde was uitbundig maar ging gepaard met afrekeningen ten aanzien van (vermeende) collaborateurs, met woningschennis en vernieling van huisraad en heel veel menselijk leed. Het fort van Liezele werd door durvers geplunderd en gingen aan de haal gingen met al wat bruikbaar en vooral eetbaar was. De Duitsers bleven proberen om met V1- en later V2-raketten Antwerpen en de haven te heroveren. In de omliggende gemeenten vielen en ontploften er een 25-tal maar Liezele bleef gespaard.
 
-## De Wolfmolen
-Naam: Wolfmolen
-Ligging:
-Wolfstraat 2870 Liezele kadasterperceel B214
-Type: Staakmolen met open voet
-Functie: Korenmolen
-Bouwjaar: voor 1775
-Verdwenen: 1914 eerste wereldoorlog
+## DE FUSIE VAN GEMEENTEN
+  De gemeenten wilden aanvankelijk allemaal zelfstandig blijven maar fusies die reeds een tijdje werden voorbereid kwamen er in 1976. Vier zelfstandige gemeenten met een eigen burgemeester, schepenen en gemeenteraadsleden, in een eigen gemeentehuis: Puurs, Ruisbroek, Breendonk en Liezele, werden één grote gemeente Puurs met toen 14.835 inwoners onder één bestuur.
+  De Vlaamse overheid trachtte op vrijwillige basis tegen 2019 nieuwe fusies te stimuleren. Gemeenten met minder dan 15 000 inwoners werd te klein geacht. Puurs en Sint-Amands beslisten over te gaan tot een vrijwillige fusie, aangemoedigd door een schuldenverlichting van 500 euro per inwoner. Er werd gekozen voor de naam ‘Puurs-Sint-Amands’ en telde ongeveer 26 000 inwoners. Reeds sinds 2017 werd er nauwer samengewerkt bij o.a. het oprichten van een gezamenlijk zorgbedrijf, het delen van gespecialiseerde ambtenaren, sociale huisvesting en scholen. Eerder al werden politie en brandweer samengevoegd tot Politiezone Klein-Brabant en in Brandweerzone Rivierenland. In november 2017 namen de beiden gemeenteraden de definitieve beslissing om te fuseren. Op 1 januari 2019 was ‘Puurs-Sint-Amands’ een feit.
 
-### Beschrijving / geschiedenis
 
-![Wolfmolen](/images/wolfmolen.jpg#floatleft)
+>  Deze informatie over Liezele werd door Erik Cools verzameld uit het boek van Louis Callaert:
+>  ‘Canon van Puurs’ de 50+1 hoogtepunten uit de geschiedenis van Puurs – Kalfort – Breendonk – Liezele – Ruisbroek.’
+>   Een prachtig boek, een aanrader  voor wie meer wil weten over de plaatselijke geschiedenis.
 
-De Wolfmolen, genoemd naar een toponiem (de straat noemt Wolfstraat) op  is een houten korenwindmolen die met een bruin symbool - dus houten windmolen - staat aangeduid op de Ferraris kaart van ca. 1775.
-Jacobus De Maerschalck, gehuwd met Isabella Vertongen, was in 1800 molenaar te Liezele op de Wolfmolen en was afkomstig van Steenhuffel.
-Charles Parmentier, gehuwd met Anna Maria Goossens komende van Tisselt , was in 1803 molenaar te Liezele.
-In 1831 werd de molen het bezit van Jan Van Heymbeek-De Sagher. Na zijn overlijden  op 18 juli 1861 kwam de Wolfmolen per testamentaire beschikking toe aan de weduwe en zijn zoon Ferdinand. Bij het  overlijden van de weduwe op 20 mei 1871 komt de molen geheel in bezit van de zijn zoon .
 
-De standaardmolen werd vernield bij de inval van de Duitsers in 1914 en werd niet meer opgebouwd.
+> De originele pagina over de geschiendenis van Liezele is gearchiveerd en kan u [hier](../geschiedenis-legacy) terug vinden.
 
 
