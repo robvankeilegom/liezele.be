@@ -4,6 +4,7 @@ date: 2020-08-14T07:20:26+02:00
 type: "featured"
 bg_image: "images/liebad.jpg"
 thumb_image: "images/liebad.jpg"
+author: Joke Dewever
 tags:
   - "Liebad"
 ---
