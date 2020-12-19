@@ -11,7 +11,10 @@ categories:
 ---
 ## Lichtpuntjes... die zoeken we allemaal...
 
-In deze kerstperiode hebben we met enkele vrijwilligers een Lichtpuntjes-tocht uitgewerkt. __De wandel-zoektocht bestaat uit 2 lussen van elk 4km__, afzonderlijk te maken. Ze vertrekken aan de kerk van Liezele. Kleine kinderen kunnen op pad met een foto-bingokaart en de anderen gaan op zoek naar de volgorde van 12 foto’s. De zoektocht loopt tot 02/02/2021 (Lichtmis).
+
+__!! Opgelet: De zoektocht begint pas op maandag 21/12/2020. !!__
+
+In deze kerstperiode hebben we met enkele vrijwilligers een Lichtpuntjes-tocht uitgewerkt. __De wandel-zoektocht bestaat uit 2 lussen van elk 4km__, afzonderlijk te maken. Ze vertrekken aan de kerk van Liezele. Kleine kinderen kunnen op pad met een foto-bingokaart en de anderen gaan op zoek naar de volgorde van 12 foto’s. De zoektocht loopt van 21/12/2020 tot 02/02/2021 (Lichtmis).
 
 De oplossingen kunnen binnengebracht worden tot 02/02/2021 op volgende adressen:
 > A. De Saegherstraat 8 of Theo Andriesstraat 73
