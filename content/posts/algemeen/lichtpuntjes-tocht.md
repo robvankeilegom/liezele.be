@@ -25,7 +25,7 @@ Kinderen krijgen een kleine attentie en de anderen maken kans op een verrassing.
 
 
 ### Downloads
-[Zoektocht voor volwassenen (noord en zuid)](https://liezele.be/files/posts/lichtpuntjes-zoektocht-richting-noord-en-zuid.pdf)
+[Zoektocht voor volwassenen (noord en zuid) (aanpassing 21-12-2020)](https://liezele.be/files/posts/lichtpuntjes-zoektocht-richting-noord-en-zuid-aanpassing-20201221.pdf)
 
 [Zoektocht voor kids (noord)](https://liezele.be/files/posts/lichtpuntjes-zoektocht-richting-noord-kids.pdf)
 
