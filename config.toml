@@ -4,7 +4,7 @@ title = "Home"
 theme = "airspace"
 defaultContentLanguage = "nl"
 # post pagination
-paginate = "4"
+paginate = "6"
 # post excerpt
 summaryLength = "30"
 # disable language
