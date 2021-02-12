@@ -9,28 +9,26 @@ bg_image: "images/posts/lichtpuntjes-tocht.jpg"
 categories:
 - "Algemeen"
 ---
-## Lichtpuntjes... die zoeken we allemaal...
 
+## __De zoektocht is afgelopen.__
+## __Kijk [hier](/posts/algemeen/lichtpuntjes-tocht-update/) voor de versie die het hele jaar door beschikbaar is.__
 
-__!! Opgelet: De zoektocht begint pas op maandag 21/12/2020. !!__
+~~In deze kerstperiode hebben we met enkele vrijwilligers een Lichtpuntjes-tocht uitgewerkt. __De wandel-zoektocht bestaat uit 2 lussen van elk 4km__, afzonderlijk te maken. Ze vertrekken aan de kerk van Liezele. Kleine kinderen kunnen op pad met een foto-bingokaart en de anderen gaan op zoek naar de volgorde van 12 foto’s. De zoektocht loopt van 21/12/2020 tot 02/02/2021 (Lichtmis).~~
 
-In deze kerstperiode hebben we met enkele vrijwilligers een Lichtpuntjes-tocht uitgewerkt. __De wandel-zoektocht bestaat uit 2 lussen van elk 4km__, afzonderlijk te maken. Ze vertrekken aan de kerk van Liezele. Kleine kinderen kunnen op pad met een foto-bingokaart en de anderen gaan op zoek naar de volgorde van 12 foto’s. De zoektocht loopt van 21/12/2020 tot 02/02/2021 (Lichtmis).
+~~De oplossingen kunnen binnengebracht worden tot 02/02/2021 op volgende adressen:~~
+> ~~A. De Saegherstraat 8 of Theo Andriesstraat 73~~
 
-De oplossingen kunnen binnengebracht worden tot 02/02/2021 op volgende adressen:
-> A. De Saegherstraat 8 of Theo Andriesstraat 73
-
-Wie problemen heeft om aan de zoektocht te geraken, kan terecht op bovenstaande adressen.
-Kinderen krijgen een kleine attentie en de anderen maken kans op een verrassing. Met dank aan Landelijke Gilde en Ferm Liezele voor de ondersteuning.
-
+~~Wie problemen heeft om aan de zoektocht te geraken, kan terecht op bovenstaande adressen.~~
+~~Kinderen krijgen een kleine attentie en de anderen maken kans op een verrassing. Met dank aan Landelijke Gilde en Ferm Liezele voor de ondersteuning.~~
 
 
 ### Downloads
-[Zoektocht voor volwassenen (noord en zuid) (aanpassing 21-12-2020)](https://liezele.be/files/posts/lichtpuntjes-zoektocht-richting-noord-en-zuid-aanpassing-20201221.pdf)
+~~[Zoektocht voor volwassenen (noord en zuid) (aanpassing 21-12-2020)]~~
 
-[Zoektocht voor kids (noord)](https://liezele.be/files/posts/lichtpuntjes-zoektocht-richting-noord-kids.pdf)
+~~[Zoektocht voor kids (noord)]~~
 
-[Zoektocht voor kids (zuid)](https://liezele.be/files/posts/lichtpuntjes-zoektocht-richting-zuid-kids.pdf)
+~~[Zoektocht voor kids (zuid)]~~
 
-[Antwoordblad](https://liezele.be/files/posts/lichtpuntjes-antwoordblad.pdf)
+~~[Antwoordblad]~~
 
 ## Veel warm stapplezier !
