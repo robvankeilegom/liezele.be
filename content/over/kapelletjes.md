@@ -10,14 +10,13 @@ Ook genoemd : Kapelleke van 't achtersa
 
 ![O.L.V van gedurende bijstand](/images/kapelletjes/olv-van-gedurende-bijstand.jpg)
 
-Gebouwd in 1870 waarna in 1976 gedeeltelijk de binnenzijde hersteld waarna begin jaren 80 het dakgebinte werd vervangen door plaatselijke Firma
-Het gebouw is opgetrokken in rode baksteen met zwarte stenen in kruisvorm verwerkt met onderaan een grijsblauw geschilderde plint.
-Boven de deur, op een wit vlak, staat een kruis met speer, stok en spons afgebeeld.
-Voor de ingang staat het “ Salve “ wat in het Latijn “ gegroet” betekent.
-Binnen, in een nis, staan in smeedijzeren letters de woorden “ O.-L.-V. van Gedurende Bijstand “ te lezen.
-Het Mariabeeld, met Jezus op haar Linker arm opgesteld achter een ijzeren hek draagt een goudgeel kleed met een blauwe mantel versierd met gouden lelies.
-Achter glas en onder een glazen stulp een Heilig Hartbeeld
-Vroeger werd er op 15 augustus een mis opgedragen, nu kan men een gans jaar door individueel het mooie kapelletje bezoeken, kaarsje laten branden en bidden.
+Gebouwd in 1870, waarna in 1976 de binnenzijde gedeeltelijk hersteld werd. Begin jaren 80 werd het dakgebinte vervangen door een plaatselijke firma.
+Het gebouw is opgetrokken in rode baksteen met zwarte stenen in kruisvorm en onderaan verwerkt met een grijsblauw geschilderde plint.
+Boven de deur staat op een wit vlak een kruis afgebeeld met speer, stok en spons.
+Voor de ingang staat het “ Salve “ wat in het Latijn   “gegroet” betekent.
+Binnen in een nis staan de woorden te lezen in smeedijzeren letters: “ O.-L.-V. van Gedurende Bijstand “.
+Achter een hek staat een Mariabeeld met Jezus op de linkerarm. Maria draagt een goudgeel kleed en blauwe mantel, die versierd is met gouden lelies. Achter glas en onder een glazen stolp staat een Heilig Hartbeeld.
+Vroeger werd er op 15 augustus aan deze kapel een mis opgedragen. Nu kan men een gans jaar door individueel het mooie kapelletje bezoeken, er bidden en een kaarsje laten branden.
 
 ### O.L.V ter Koorts
 Ook genoemd : het Wolfskapelletje en de Koortskapel.
@@ -49,7 +48,7 @@ De bewoners van de buurt kwamen er vroeger bidden ..
 
 ![O.L.V Lourdesgrot](/images/kapelletjes/olv-lourdes-grot.jpg)
 
-In de jaren vijtig opgericht door de meerster P. De Wit.
+In de jaren vijftig opgericht door de meester P. De Wit.
 Het rotswerk is uitgevoerd door Tondelier uit Oude God.
-O.-L.-Vrouw van Lourdes is gans in het wit gekleed, met een blauwe gordelband. Het beeld werd herschildert in 1991.
+O.-L.-Vrouw van Lourdes is gans in het wit gekleed, met een blauwe gordelband. Het beeld werd herschilderd in 1991.
 De grot stond achter de kerk tot 2019.
