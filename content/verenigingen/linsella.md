@@ -1,7 +1,11 @@
 ---
 title: "Linsella"
 date: 2020-06-12T20:36:00+02:00
+lastmod: 2021-04-17T09:51:41+02:00
 ---
+
+> Deze vereniging is niet meer actief. Deze pagina bestaat enkel nog voor archiefdoeleinden.
+
 Linsella is een werkgroep voor heem- en geschiedkunde. Zij werd opgericht ter gelegenheid van de eeuwwende (tentoonstelling Liezele Leeft in 2000) en staat open voor iedereen.
 
 Doelstellingen zijn het verzamelen, onderzoeken en archiveren van verspreid geschiedkundig materiaal, tussenkomen bij het bewaren van waardevolle Liezelse gebouwen, sites en/of voorwerpen en de opbouw van een genealogisch consultatiecentrum.
