@@ -115,7 +115,7 @@ URL = "verenigingen/de-bacchanten"
 [[menu.main]]
 name = "Okra"
 parent = "Verenigingen"
-URL = "verenigingen/okra"
+URL = "https://www.okra.be/trefpunt/liezele"
 
 [[menu.main]]
 name = "Liebad"

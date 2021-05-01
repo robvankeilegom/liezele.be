@@ -2,6 +2,7 @@
 title: "Okra"
 date: 2020-06-12T20:38:15+02:00
 type: "featured"
+draft: true
 tags:
   - "Okra"
 ---
