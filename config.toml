@@ -179,7 +179,7 @@ contentDir = "content"
 weight = 1
 home = "Home"
 # copyright
-copyright = "Iets fout of onvolledig? [info@liezele.be](mailto:info@liezele.be) - Made by [robvankeilegom.be](https://robvankeilegom.be)"
+copyright = "Iets fout of onvolledig? [info@liezele.be](mailto:info@liezele.be) - Made by [robvankeilegom.be](https://robvankeilegom.be)<br /> Bij het beheren van een website gaan serverkosten gepaard. Wil je graag mee helpen met deze kosten te dekken? [Meer info.](/donaties/info)"
 
 # Instagram feed
 [params.instafeed]
