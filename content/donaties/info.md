@@ -2,6 +2,8 @@
 title: "Donaties - Info"
 date: 2021-05-01T10:20:56+02:00
 bg_image: "images/donaties.jpeg"
+categories:
+- "liezele.be"
 ---
 Bij het beheren van een website gaan serverkosten gepaard.
 Er staan geen advertenties op deze website en dat wil ik ook zo houden.

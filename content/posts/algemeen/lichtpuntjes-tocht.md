@@ -8,6 +8,8 @@ thumb_image: "images/posts/lichtpuntjes-tocht.jpg"
 bg_image: "images/posts/lichtpuntjes-tocht.jpg"
 categories:
 - "Algemeen"
+tags:
+- "wandelen"
 ---
 
 ## __De zoektocht is afgelopen.__
