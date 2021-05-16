@@ -3,6 +3,7 @@ baseURL = "https://liezele.be"
 title = "Home"
 theme = "airspace"
 defaultContentLanguage = "nl"
+pluralizelisttitles = false
 # post pagination
 paginate = "6"
 # post excerpt
