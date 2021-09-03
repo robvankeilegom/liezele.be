@@ -11,6 +11,6 @@ Dat wil ook zeggen dat er geen inkomsten zijn om serverkosten met te betalen.
 
 
 Wil je graag mee helpen met deze kosten te dekken?
-<a href="https://www.paypal.com/donate?hosted_button_id=KBQ48HAECNC56" target="_blank" class="umami--click--paypall-button">
+<a href="https://www.paypal.com/donate?hosted_button_id=KBQ48HAECNC56" target="_blank" class="umami--click--paypal-button">
     Dan kan je hier altijd een bedrag storten via PayPal
 </a>
