@@ -7,10 +7,6 @@ image: "images/posts/evenementen/liezele-foort-2021.jpg"
 thumb_image: "images/posts/evenementen/liezele-foort-2021.jpg"
 bg_image: "images/posts/evenementen/liezele-foort-2021.jpg"
 categories:
-- "liezele-foort-2021"
-tags:
-- "liezele-foort-2021"
-categories:
 - "Evenementen"
 ---
 Naar jaarlijkse traditie zal ook dit jaar het eerste weekend van oktober Liezele bruisen van het leven. Meer info vindt u op de facebook pagina: <a href="https://www.facebook.com/events/1103118626765726/" target="_blank" class="umami--click--facebook-link">
