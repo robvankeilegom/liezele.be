@@ -6,7 +6,7 @@ type: "post"
 image: "images/kapelletjes/olv-van-gedurende-bijstand.jpg"
 thumb_image: "images/kapelletjes/olv-van-lourdes.jpg"
 categories:
-- "Algemeen"
+- "Wandelen"
 tags:
 - "wandelen"
 ---

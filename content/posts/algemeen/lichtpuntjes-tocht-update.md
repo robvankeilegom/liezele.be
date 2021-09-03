@@ -7,7 +7,9 @@ image: "images/posts/lichtpuntjes-tocht-update.jpg"
 thumb_image: "images/posts/lichtpuntjes-tocht-update.jpg"
 bg_image: "images/posts/lichtpuntjes-tocht-update.jpg"
 categories:
-- "Algemeen"
+- "Wandelen"
+tags:
+- "wandelen"
 ---
 ## Foto-wandelzoektocht in Liezele
 

@@ -7,7 +7,7 @@ image: "images/posts/lichtpuntjes-tocht.jpg"
 thumb_image: "images/posts/lichtpuntjes-tocht.jpg"
 bg_image: "images/posts/lichtpuntjes-tocht.jpg"
 categories:
-- "Algemeen"
+- "Wandelen"
 tags:
 - "wandelen"
 ---
