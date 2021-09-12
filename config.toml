@@ -133,12 +133,6 @@ name = "Polyvalente Zaal"
 weight = 4
 URL = "polyvalente-zaal"
 
-[[menu.main]]
-name = "Lichtpuntjes Tocht"
-weight = 5
-URL = "posts/algemeen/lichtpuntjes-tocht-update"
-
-
 #################### default parameters ################################
 [params]
 logo = "images/logo.png"
