@@ -1,3 +1,3 @@
 hugo
-rsync -av ./public/ liezele.be:~/webroot/liezele.be/ --delete
+rsync -av ./public/ liezele.be:~/websites/liezele.be/current --delete
 
