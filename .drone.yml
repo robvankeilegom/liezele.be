@@ -7,6 +7,11 @@ trigger:
     - master
 
 steps:
+  - name: Update submodules
+    image: alpine/git
+    commands:
+      - git submodule update --init --recursive
+
   - name: Build
     image: klakegg/hugo
     commands:
