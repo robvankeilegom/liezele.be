@@ -11,6 +11,7 @@ steps:
     image: klakegg/hugo
     commands:
       - hugo --destination /drone/src/build
+      - ls -la /drone/src/build/
 
   - name: Upload
     image: robvankeilegom/ssh-rsync
