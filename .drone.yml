@@ -27,5 +27,6 @@ steps:
       - mkdir -p ~/.ssh && touch ~/.ssh/known_hosts
       - ssh-keyscan -p $SSH_PORT liezele.be >> ~/.ssh/known_hosts
       - mkdir -p ~/.ssh
-      - rsync -av -e "ssh -p $SSH_PORT" /drone/src/build/ $SSH_USER@liezele.be:~/websites/liezele.be/current --delete
+      - ls -la /drone/src/build/
+      # - rsync -av -e "ssh -p $SSH_PORT" /drone/src/build/ $SSH_USER@liezele.be:~/websites/liezele.be/current --delete
 
