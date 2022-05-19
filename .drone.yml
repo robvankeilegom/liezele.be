@@ -20,7 +20,7 @@ steps:
       - git submodule update --init --recursive
 
   - name: Build
-    image: klakegg/hugo
+    image: klakegg/hugo:ext-alpine
     commands:
       - hugo --destination /drone/src/build
       - ls -la /drone/src/build/
