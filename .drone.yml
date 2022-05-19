@@ -10,6 +10,7 @@ steps:
   - name: Update submodules
     image: alpine/git
     commands:
+      - mkdir -p ~/.ssh && touch ~/.ssh/known_hosts
       - ssh-keyscan -p $SSH_PORT github.com >> ~/.ssh/known_hosts
       - git submodule update --init --recursive
 
