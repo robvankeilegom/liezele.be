@@ -129,6 +129,11 @@ parent = "Verenigingen"
 URL = "https://www.liezelefoort.be/"
 
 [[menu.main]]
+name = "LiezeleVELT"
+parent = "Verenigingen"
+URL = "verenigingen/liezelevelt"
+
+[[menu.main]]
 name = "Onderwijs"
 weight = 3
 URL = "onderwijs"
