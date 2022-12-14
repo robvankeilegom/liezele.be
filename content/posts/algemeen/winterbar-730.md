@@ -11,9 +11,7 @@ categories:
 tags:
 - "Algemeen"
 ---
-# Winterbar 730
-
-Vanaf 9 december 2022 tot en met 8 januari 2023 vind je de gezelligste winterbar van 't land op het Dorpshart
+Vanaf 9 december 2022 tot en met 8 januari 2023 vind je de gezelligste winterbar van 't land op het Dorpshart.
 
 Lees hier meer: https://www.uitinpuurssintamands.be/winter/winterbar730-3
 
