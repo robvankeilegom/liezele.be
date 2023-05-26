@@ -1,6 +1,6 @@
 ---
 title: "Update Plantenbeurs"
-date: 2020-04-06:50:39+02:00
+date: 2020-04-06T17:50:39+02:00
 description: "Plantenbeurs Liezele afgelast"
 type: "post"
 thumb_image: "images/posts/update-plantenbeurs-thumb.jpg"
