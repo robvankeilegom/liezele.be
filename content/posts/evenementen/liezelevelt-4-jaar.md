@@ -7,7 +7,7 @@ type: "post"
 thumb_image: "images/posts/evenementen/liezelevelt-4-jaar.jpg"
 bg_image: "images/posts/evenementen/liezelevelt-4-jaar.jpg"
 categories:
-- "Evenementen"
+  - "Liezelevelt"
 ---
 
 Liezelevelt wordt 4 jaar. Haar verjaardag willen ze geen twee jaar op rij zomaar laten voorbij gaan. Daarom nodigen ze jullie uit om op een veilige manier mee de kaarsjes te komen uitblazen.
