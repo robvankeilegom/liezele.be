@@ -16,9 +16,11 @@ pipeline {
                 checkout([
                     $class: 'GitSCM',
                     branches: scm.branches,
-                    extensions: [
-                        [$class: 'SubmoduleOption', recursiveSubmodules: true]
-                    ],
+                    extensions: [[
+                        $class: 'SubmoduleOption',
+                        recursiveSubmodules: true,
+                        parentCredentials: true
+                    ]],
                     userRemoteConfigs: scm.userRemoteConfigs
                 ])
             }
